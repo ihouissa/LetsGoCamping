@@ -1,0 +1,53 @@
+# .NET Core (Backend)
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Core
+wwwroot/
+*.dll
+*.exe
+*.pdb
+*.dbmdl
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Environment-specific files
+appsettings.Development.json
+appsettings.Production.json
+
+# Logs
+*.log
+
+# Local database files
+*.mdf
+*.ldf
+
+# React (Frontend)
+node_modules/
+build/
+*.log
+*.cache
+
+# IDE-specific files for React
+.vscode/
+*.swp
+
+# OS-specific files for React
+.DS_Store
+Thumbs.db
